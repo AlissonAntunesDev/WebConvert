@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href=\"https://mnantunes02.github.io/web-convert/\"",
+    "build": "ng build --base-href=\"https://alissonantunesdev.github.io/WebConvert/\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
